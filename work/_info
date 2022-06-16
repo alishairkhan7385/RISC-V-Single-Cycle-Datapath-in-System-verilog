@@ -1,0 +1,476 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/akena/labs/mealy
+T_opt
+!s110 1649246829
+VU]AX_Bi7zEPSPlV@7ImjL1
+04 8 4 work reg_file fast 0
+=1-000ae431a4f1-624d826d-9819f-8021
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1649258769
+V5]<nKKhMdMWiLZ6@bVIJY3
+04 10 4 work tb_regfile fast 0
+=1-000ae431a4f1-624db110-c9f01-9d79
+!s124 OEM10U2 
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R1
+T_opt2
+!s110 1649348506
+V3a[bg<GF:?d4EAP:XS5>03
+04 16 4 work TB_S_C_Processor fast 0
+=1-000ae431a4f1-624f0f9a-7e424-1239b
+!s124 OEM10U12 
+R4
+R2
+n@_opt2
+R3
+R1
+valu_op
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z6 !s110 1649348684
+!i10b 1
+!s100 VKI?W7XZLBcKVNS3;oPlZ1
+Ij[IYmnEI[?`]DEe5<Wh6g3
+S1
+Z7 d/home/akena/labs/rv32i
+w1649346313
+8/home/akena/labs/rv32i/alu.sv
+F/home/akena/labs/rv32i/alu.sv
+!i122 1534
+L0 1 25
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z10 !s108 1649348684.000000
+!s107 /home/akena/labs/rv32i/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/alu.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcomparator
+R5
+R6
+!i10b 1
+!s100 5@O@^_]C]K07kEb9Z:X7;3
+IAA7`L[XZa=ge`hJg@kOO61
+S1
+R7
+w1649222267
+8/home/akena/labs/rv32i/comparator.sv
+F/home/akena/labs/rv32i/comparator.sv
+!i122 1544
+L0 1 23
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/comparator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/comparator.sv|
+!i113 0
+R11
+R2
+vcontrol
+R5
+R6
+!i10b 1
+!s100 ]Y>;YRfgMDWVg`=cUK?fR2
+Ie;Dj6i>CfSzO8MBzic`lB1
+S1
+R7
+w1649341888
+8/home/akena/labs/rv32i/control.sv
+F/home/akena/labs/rv32i/control.sv
+!i122 1541
+L0 1 508
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/control.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/control.sv|
+!i113 0
+R11
+R2
+vdata_mem
+R5
+R6
+!i10b 1
+!s100 d`SBL8TC1kGT6jVb0had62
+IgCmA9mHKN=4afb7gez_4g1
+S1
+R7
+w1649219888
+8/home/akena/labs/rv32i/data_mem.sv
+F/home/akena/labs/rv32i/data_mem.sv
+!i122 1543
+Z12 L0 1 17
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/data_mem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/data_mem.sv|
+!i113 0
+R11
+R2
+vimem
+R5
+R6
+!i10b 1
+!s100 W5Yf35f2BEIEU`:@4QkeZ0
+I5Q5Fai8j@`QiYjfe:]ea72
+S1
+R7
+w1649267489
+8/home/akena/labs/rv32i/imem.sv
+F/home/akena/labs/rv32i/imem.sv
+!i122 1537
+L0 2 13
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/imem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/imem.sv|
+!i113 0
+R11
+R2
+vimm_gen
+R5
+R6
+!i10b 1
+!s100 lj<mLk::GbGGXC>FYj3YC0
+IaWElHGAl3O2^RI?TJC@ZF0
+S1
+R7
+w1649341612
+8/home/akena/labs/rv32i/imm_gen.sv
+F/home/akena/labs/rv32i/imm_gen.sv
+!i122 1538
+L0 1 34
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/imm_gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/imm_gen.sv|
+!i113 0
+R11
+R2
+vlw_imm_gen
+R5
+R6
+!i10b 1
+!s100 ;F9QGEXHR_5M6F0?cdJfE1
+IX_L1AagIacA74NQmPgTJ81
+S1
+R7
+w1649269044
+8/home/akena/labs/rv32i/lw_imm_gen.sv
+F/home/akena/labs/rv32i/lw_imm_gen.sv
+!i122 1546
+R12
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/lw_imm_gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/lw_imm_gen.sv|
+!i113 0
+R11
+R2
+vpc
+R5
+R6
+!i10b 1
+!s100 0EbTXHbS`nc4HaO3H`N8U3
+IS11;[gfzW[E8c=YGe^<5f1
+S1
+R7
+w1649222840
+8/home/akena/labs/rv32i/pc.sv
+F/home/akena/labs/rv32i/pc.sv
+!i122 1536
+L0 1 20
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/pc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/pc.sv|
+!i113 0
+R11
+R2
+vreg_file
+R5
+R6
+!i10b 1
+!s100 kOTMOM8zn9;Z7ZUc_mb4@1
+IJ2E;>3T?T<b:>7<I5mJnj3
+S1
+R7
+w1649257214
+Z13 8/home/akena/labs/rv32i/regfile.sv
+Z14 F/home/akena/labs/rv32i/regfile.sv
+!i122 1535
+L0 1 26
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z15 !s107 /home/akena/labs/rv32i/regfile.sv|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/regfile.sv|
+!i113 0
+R11
+R2
+vregfile
+R5
+!s110 1649239390
+!i10b 1
+!s100 f0=S]Y56`7E]lYVF>>]Cm0
+I53SczIz5`Y5A8GEKeazQM0
+S1
+R7
+w1649239384
+R13
+R14
+!i122 650
+L0 1 29
+R8
+R9
+r1
+!s85 0
+31
+!s108 1649239390.000000
+R15
+R16
+!i113 0
+R11
+R2
+vsw_imm_gen
+R5
+R6
+!i10b 1
+!s100 EA^iRD?F8P0jX<QX9YoJ92
+I_Ag=BzNXn;PeUla51QH_Q0
+S1
+R7
+w1649229459
+8/home/akena/labs/rv32i/sw_imm_gen.sv
+F/home/akena/labs/rv32i/sw_imm_gen.sv
+!i122 1545
+R12
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/sw_imm_gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/sw_imm_gen.sv|
+!i113 0
+R11
+R2
+vtb_imem
+R5
+R6
+!i10b 1
+!s100 RYg>l8gYUQniBigBg=I9m1
+InOJ4g4Jo51Y6@obT[]okY3
+S1
+R7
+w1649097219
+8/home/akena/labs/rv32i/tb_imem.sv
+F/home/akena/labs/rv32i/tb_imem.sv
+!i122 1539
+L0 1 9
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/tb_imem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/tb_imem.sv|
+!i113 0
+R11
+R2
+vtb_regfile
+R5
+R6
+!i10b 1
+!s100 a`NMfd_9Pg>Zf1lQi=kcG2
+INNQh[GTLbg3zW=LeBOIkT3
+S1
+R7
+w1649258755
+8/home/akena/labs/rv32i/tb_regfile.sv
+F/home/akena/labs/rv32i/tb_regfile.sv
+!i122 1547
+L0 1 15
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/tb_regfile.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/tb_regfile.sv|
+!i113 0
+R11
+R2
+vTB_S_C_Processor
+R5
+R6
+!i10b 1
+!s100 EII8EDF9>ge^YXVReVh:53
+Ia;iN4bc3TRWRdO^5SfCXJ0
+S1
+R7
+w1649256922
+8/home/akena/labs/rv32i/tb_top.sv
+F/home/akena/labs/rv32i/tb_top.sv
+!i122 1542
+L0 2 18
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/tb_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/tb_top.sv|
+!i113 0
+R11
+R2
+n@t@b_@s_@c_@processor
+vtop
+R5
+R6
+!i10b 1
+!s100 @J@L[omo:ai`G[8V7heFh2
+I5PZzS1Rd;]>Y9g=TM]`420
+S1
+R7
+w1649346489
+8/home/akena/labs/rv32i/top.sv
+F/home/akena/labs/rv32i/top.sv
+!i122 1540
+L0 1 95
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 /home/akena/labs/rv32i/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/akena/labs/rv32i/top.sv|
+!i113 0
+R11
+R2

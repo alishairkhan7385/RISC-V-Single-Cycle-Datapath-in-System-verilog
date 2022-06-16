@@ -1,0 +1,101 @@
+/home/akena/labs/rv32i/tb_imem.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/tb_imem.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module tb_imem
+
+Top level modules:
+	tb_imem
+
+} {} {}} /home/akena/labs/rv32i/sw_imm_gen.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/sw_imm_gen.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module sw_imm_gen
+
+Top level modules:
+	sw_imm_gen
+
+} {} {}} /home/akena/labs/rv32i/regfile.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/regfile.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} /home/akena/labs/rv32i/imem.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/imem.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} /home/akena/labs/rv32i/tb_top.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/tb_top.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module TB_S_C_Processor
+
+Top level modules:
+	TB_S_C_Processor
+
+} {} {}} /home/akena/labs/rv32i/data_mem.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/data_mem.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} /home/akena/labs/rv32i/control.sv {2 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/control.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module control
+** Warning: /home/akena/labs/rv32i/control.sv(159): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: /home/akena/labs/rv32i/control.sv(172): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	control
+
+} {} {}} /home/akena/labs/rv32i/tb_regfile.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/tb_regfile.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module tb_regfile
+
+Top level modules:
+	tb_regfile
+
+} {} {}} /home/akena/labs/rv32i/pc.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/pc.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} /home/akena/labs/rv32i/lw_imm_gen.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/lw_imm_gen.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module lw_imm_gen
+
+Top level modules:
+	lw_imm_gen
+
+} {} {}} /home/akena/labs/rv32i/comparator.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/comparator.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} /home/akena/labs/rv32i/alu.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/alu.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module alu_op
+
+Top level modules:
+	alu_op
+
+} {} {}} /home/akena/labs/rv32i/top.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/top.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/akena/labs/rv32i/imm_gen.sv {1 {vlog -work work -vopt -sv -stats=none /home/akena/labs/rv32i/imm_gen.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}}
